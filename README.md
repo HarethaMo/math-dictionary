@@ -10,6 +10,6 @@
 
 ### Usage
 ```bash
-python math_dictionary.py --n 5 --cf 0.5
+python main.py --n 5 --cf 0.5
 ```
 Then you can type any mathematical term in Arabic or English
