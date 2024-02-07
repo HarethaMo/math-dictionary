@@ -1,6 +1,6 @@
 ## A Dictionary of Mathematical Terms
 
-### requirmenets
+### Requirements
 - python3
 - langdetect
 
