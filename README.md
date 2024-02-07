@@ -10,6 +10,10 @@
 
 ### Usage
 ```bash
+python main.py
+```
+or
+```bash
 python main.py -n 5 -cf 0.5
 ```
 Then you can type any mathematical term in Arabic or English
